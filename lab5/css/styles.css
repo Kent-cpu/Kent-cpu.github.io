@@ -1,0 +1,40 @@
+#title {
+    background-color: #ff3c68;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #fff;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 22px;
+    font-family: 'Montserrat', light;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.download-button {
+    margin: 5% 3% 0 5%;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
