@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #B3FFAE;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 50px auto; 
+}
+
+.block:not(:last-child) {
+    margin-bottom: 40px;
+}
+
+.block__link {
+    text-decoration: none;
+}
+
+.title {
+    margin-bottom: 15px;
+    color: #00F5FF;
+}
+
+.title_center {
+    text-align: center;
+}
+
